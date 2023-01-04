@@ -9,5 +9,5 @@ const removeFromArray = function(array, ...toRemove) {
     return newArray;
 };
 
-// Do not edit below this line
+
 module.exports = removeFromArray;
